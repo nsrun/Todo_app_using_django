@@ -1,7 +1,3 @@
-Certainly! Here's a sample description for your GitHub repository titled "Todo_app_using_django-main". You can copy and customize it as needed:
-
----
-
 # Todo App Using Django
 
 This is a simple **Todo List application** built with **Django**, a high-level Python web framework. The project demonstrates how to create, read, update, and delete (CRUD) tasks using Django's powerful features, along with HTML and CSS for styling.
